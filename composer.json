@@ -1,0 +1,19 @@
+{
+    "name": "yuuhi666/uploader",
+    "description": "image uploader",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "authors": [
+        {
+            "name": "yuuhi666",
+            "email": "yu_gata666@docomo.ne.jp"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "yuuhi666\\Uploader\\": "src"
+        }
+    }
+}
